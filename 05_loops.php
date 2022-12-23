@@ -47,9 +47,9 @@
         'city' => 'Central city'
     ];
 
-    // foreach($user as $key => $value) {
-    //     echo "$key - $value<br>";
-    // }
+    foreach($user as $key => $value) {
+        echo "$key - $value !!<br>";
+    }
 
 
 ?>
